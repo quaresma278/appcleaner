@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">TemizlePro</string>
+    <string name="nav_home">Ana Sayfa</string>
+    <string name="nav_scan">Tarama</string>
+    <string name="nav_results">Sonuçlar</string>
+    <string name="nav_settings">Ayarlar</string>
+    <string name="nav_info">Açıklama</string>
+
+    <string name="home_title">TemizlePro</string>
+    <string name="storage_summary">Depolama Özeti</string>
+    <string name="storage_used">Kullanılan</string>
+    <string name="storage_free">Boş</string>
+    <string name="storage_total">Toplam</string>
+    <string name="quick_scan">Hızlı Tarama</string>
+    <string name="category_downloads">İndirilenler</string>
+    <string name="category_cache">Önbellek</string>
+    <string name="category_large_files">Büyük Dosyalar</string>
+    <string name="category_duplicates">Kopya Dosyalar</string>
+    <string name="category_temp">Uygulama Geçici Dosyaları</string>
+    <string name="category_count">%1$d öğe</string>
+    <string name="category_size">%1$s</string>
+
+    <string name="scan_title">Tarama</string>
+    <string name="scan_pick_folder">Klasör Seç</string>
+    <string name="scan_instructions">İndirilenler veya temizlemek istediğiniz klasörü seçin.</string>
+    <string name="scan_progress">Tarama sürüyor…</string>
+    <string name="scan_complete">Tarama tamamlandı</string>
+    <string name="scan_empty">Seçilen klasörde silinebilir öğe bulunamadı.</string>
+    <string name="scan_canceled">Klasör seçimi iptal edildi.</string>
+    <string name="scan_error">Tarama sırasında hata oluştu.</string>
+
+    <string name="results_title">Sonuçlar</string>
+    <string name="select_all">Tümünü Seç</string>
+    <string name="delete_selected">Seçileni Sil</string>
+    <string name="no_results">Henüz sonuç yok.</string>
+    <string name="delete_confirm_title">Silme Onayı</string>
+    <string name="delete_confirm_message">Seçilen öğeler kalıcı olarak silinecek. Bu işlem geri alınamaz. Devam etmek istiyor musunuz?</string>
+    <string name="delete_success">Silme tamamlandı.</string>
+    <string name="delete_failed">Bazı öğeler silinemedi.</string>
+    <string name="delete_cancel">İptal</string>
+    <string name="delete_ok">Sil</string>
+
+    <string name="settings_title">Ayarlar</string>
+    <string name="settings_duplicates">Kopya dosya taramasını dahil et</string>
+    <string name="settings_large_threshold">Büyük dosya eşiği</string>
+    <string name="settings_privacy_title">Gizlilik</string>
+    <string name="settings_privacy_note">Verileriniz cihazınızdan dışarı çıkmaz.</string>
+
+    <string name="info_title">Açıklama</string>
+    <string name="info_body">TemizlePro, sistem dosyalarını silemez ve diğer uygulamaların verilerini otomatik olarak temizleyemez. Önbellek temizliği için sistem ayarlarına yönlendirme yapabilir. Paylaşılan depolamadaki dosyalar yalnızca sizin seçtiğiniz klasörlerde ve onayınızla silinir.</string>
+
+    <string name="item_last_modified">Son değişiklik: %1$s</string>
+    <string name="item_path">Yol: %1$s</string>
+    <string name="item_size">Boyut: %1$s</string>
+    <string name="item_unknown">Bilinmiyor</string>
+
+    <string name="action_open_settings">Uygulama ayarlarını aç</string>
+    <string name="action_try_again">Tekrar Dene</string>
+
+    <string name="dashboard_tip">Güvenli kategorileri tarayarak gereksiz dosyaları bulun.</string>
+</resources>
